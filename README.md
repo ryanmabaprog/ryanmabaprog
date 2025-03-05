@@ -4,7 +4,7 @@
 ## Olá, me chamo Ryan M. Maba, estudante de programação e futuro desenvolvedor de Software!
 
 
-🔍 Procurando por uma oportunidade de estágio, para aprender e desenvolver minhas habilidades! <p>
+
 📚 Estudando MySQL, CSS e JavaScript.
 
 
